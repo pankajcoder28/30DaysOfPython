@@ -1,5 +1,5 @@
 #level 1
-'''# 1. Iterate 0 to 10 using for loop, do the same using while loop.
+# 1. Iterate 0 to 10 using for loop, do the same using while loop.
 for i in range(11):
     print(i)
 #using while loop
@@ -16,7 +16,7 @@ for i in range(10,-1,-1):
 i = 10
 while i >= 0:
     print(i)
-    i -= 1  '''  
+    i -= 1   
 
 #3. Write a loop that makes seven calls to print(), so we get on the output the following triangle:
 for i in range(1,8):
